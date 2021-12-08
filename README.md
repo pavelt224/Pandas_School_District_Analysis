@@ -10,11 +10,13 @@ The following questions will be addressed in the corresponding charts and descri
 • What impact does the district summary have?
 
 Summary Charts for School Districts
-When the 9th grade student Math and Reading results from Thomas High Schools were omitted from the District Summary, the disparity between the two charts above the average can be seen. With the exception of Thomas High School 9th grade students, average scores in Average Math Score, Average Reading Score, percent Passing Math, percent Passing Reading, and percent Overall Passing were slightly affected by tenths of an average score in Average Math Score, Average Reading Score, percent Passing Math, percent Passing Reading, and percent Overall Passing. The minor fall in averages does not change the overall picture, but it will have an impact on the summaries that follow.
+
+Comparing the two chart above the average show the difference when the 9th grade student Math and Reading scores from Thomas High Schools were excluded from the District Summary.  Excluding the Thomas High Schools 9th grade students Reading and Math scores slightly affected by tenths of average scores in Average Math Score, Average Reading Score, % Passing Math, % Passing Reading and % Overall Passing.  The overall slight decrease in averages do not change but it will affect the following summaries.
 
 • What impact does the school summary have?
 
 With or without Thomas High School, school summaries
+
 When the Thomas High School 9th grade students' Reading and Math scores are excluded from the charts above, the change is minor. The Thomas High School scores without the 9th have a little fall in percent Overall Passing, for example, from 90.948012 to 90.630324. When comparing Thomas High School percent Overall Passing placement, there isn't much of a difference. They are still passing in the 90th percentile.
 
 • How does substituting the math and reading scores of ninth graders effect Thomas High School's performance in comparison to the other schools?
@@ -27,9 +29,11 @@ Grade-level math and reading scores
 With the ninth graders' math and reading scores removed, Thomas High School's math and reading scores only alter significantly, and Thomas High School remains in the district's Top Five Schools.
 
 Scores based on how much money the school spends
-Thomas High School's spending per student increased from $638.00 to $888.53 after excluding the ninth graders' math and reading scores.
+Thomas High School's spending per student increased up to $638.00 after excluding the ninth graders' math and reading scores.
+
 Scores for schools of various sizes
 By eliminating the ninth graders' math and reading scores from Thomas High School, the scores by school size are also marginally influenced.
+
 Scores for different types of schools
 Excluding the ninth graders' math and reading scores from Thomas High School has a minor impact on the scores by school type size.
 
